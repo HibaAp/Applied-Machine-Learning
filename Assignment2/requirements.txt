@@ -4,15 +4,15 @@ ipywidgets>=8
 matplotlib==3.7.1
 mlflow==2.3.1
 nltk==3.8.1
-numpy==1.24.3
+numpy==1.26.4
 numpyencoder==0.3.0
 pandas==2.0.1
 python-dotenv==1.0.0
-ray[air]==2.7.0
+ray[air]==2.10.0
 scikit-learn==1.2.2
 snorkel==0.9.9
-SQLAlchemy==1.4.48
-torch==2.0.0
+SQLAlchemy==2.0.29
+torch==2.1.2
 transformers==4.28.1
 
 # Notebook
@@ -36,7 +36,7 @@ pyupgrade==3.3.2
 
 # Testing
 great-expectations==0.16.5
-pytest==7.3.1
+pytest==7.4.3
 pytest-cov==4.0.0
 
 # Development
