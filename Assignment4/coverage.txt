@@ -1,0 +1,18 @@
+﻿============================= test session starts =============================
+platform win32 -- Python 3.11.4, pytest-8.3.5, pluggy-1.5.0
+rootdir: C:\Users\Hiba\Downloads\AML4
+plugins: cov-6.1.1
+collected 5 items
+
+test_app.py F....                                                        [100%]
+
+=============================== tests coverage ================================
+_______________ coverage: platform win32, python 3.11.4-final-0 _______________
+
+Name          Stmts   Miss  Cover
+---------------------------------
+app.py           24      6    75%
+score.py         21      2    90%
+test_app.py      81      3    96%
+---------------------------------
+TOTAL           126     11    91%
